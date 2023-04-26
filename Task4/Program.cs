@@ -7,3 +7,4 @@ for (int i = 1; i <= N; i++){
         Console.Write(i + " ");
     }
 }
+
